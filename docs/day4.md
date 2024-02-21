@@ -13,3 +13,4 @@
 
 ### After Class Activities:
 - None! But, remember you can always ask more questions in 1:1 sessions or through issues. :sparkles:
+- There are similar workshops available for GitHub Actions and GitHub Copilot!
